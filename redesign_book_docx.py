@@ -45,7 +45,7 @@ for idx,line in enumerate(lines):
   else: doc.add_paragraph(text,style='Heading 1')
  elif s.startswith('## '): doc.add_paragraph(s[3:],style='Heading 2')
  elif s.startswith('### '): doc.add_paragraph(s[4:],style='Heading 3')
- elif re.match(r'^\d+\. ',s): doc.add_paragraph(re.sub(r'^\d+\. ','',s),'List Number')
+ elif re.match(r'^\d+\. ',s): doc.add_paragraph(s)
  elif s.startswith('- '): doc.add_paragraph(s[2:],'List Bullet')
  elif s.startswith('**') and s.endswith('**'):
   p=doc.add_paragraph(); r=p.add_run(s.strip('*')); r.bold=True
