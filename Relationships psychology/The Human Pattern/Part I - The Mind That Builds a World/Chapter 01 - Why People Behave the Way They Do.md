@@ -114,5 +114,5 @@ For self-awareness, record one recurring reaction and complete these lines: “W
 - Understanding is not the same as excusing, diagnosing, or granting access.
 - Better observation begins with specific description, multiple hypotheses, and openness to new evidence.
 
-[VISUAL SUGGESTION]
-A layered behavior map showing an observable action at the top, with perception, emotion, goal, history, social context, and bodily state beneath it. The visual should communicate that the same action can emerge from different combinations of forces.
+[GRAPHICAL ELEMENT]
+A text-based layered behavior map showing an observable action at the top, with perception, emotion, goal, history, social context, and bodily state beneath it. Use clean typography, thin rules, and arrows. The element should communicate that the same action can emerge from different combinations of forces. No image is required.

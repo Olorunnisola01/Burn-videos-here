@@ -26,4 +26,4 @@ This is educational nonfiction, not a substitute for psychological, medical, or 
 
 ## Drafting standard
 
-Each chapter will include an opening scene, a central question, accessible psychological explanation, research context, everyday examples, a paradox or tension, practical applications, reflection questions, takeaways, and visual suggestions where useful. The manuscript will be assembled only after all chapter files have been drafted and reviewed for repetition, continuity, and citation integrity.
+Each chapter will include an opening scene, a central question, accessible psychological explanation, research context, everyday examples, a paradox or tension, practical applications, reflection questions, takeaways, and occasional text-based graphical elements where useful. The book will contain no image illustrations or image placeholders. The manuscript will be assembled only after all chapter files have been drafted and reviewed for repetition, continuity, and citation integrity.
