@@ -1,0 +1,9 @@
+# Intermediate files
+segments/
+book_text_unsplit.txt
+*.bak
+
+# The final deliverables are tracked:
+# 100M_Money_Models_Audiobook.mp3
+# 100M_Money_Models_Full_Text.txt
+# merge_audiobook.py
